@@ -1,0 +1,50 @@
+<resources>
+    <!--UHO 5/25/2020 NEW  5l: title, label for room height, length, width, -->
+    <string name="app_name">Wallpaper Calculator</string>
+    <string name="room_dimension">Enter the dimension of the room in feet</string>
+    <string name="height">Height of a single wall</string>
+    <string name="width1">Length</string>
+    <string name="width2">Width</string>
+    <!--UHO 5/25/2020 NEW  5l: door and window title, label for door and windows height, width,
+    numbers of doors and windows-->
+    <string name="doors">Doors dimensions</string>
+    <string name="windows">Windows dimension</string>
+    <string name="Height">Height</string>
+    <string name="width">Width</string>
+    <string name="doorNumber"># doors</string>
+    <string name="windowNumber"># windows</string>
+    <!--UHO 5/25/2020 NEW  5l: pattern repeat title, label for radio button  -->
+    <string name="patterRepeat">Select your pattern repeat \n(The distance between pattern)</string>
+    <string name="pattern1">0 to 6 in</string>
+    <string name="pattern2">7 to 12 in</string>
+    <string name="pattern3">13 to 18 in</string>
+    <string name="pattern4">19 to 23 in</string>
+    <!--UHO 5/25/2020 NEW  2l: labels for buttons-->
+    <string name="compute">Compute</string>
+    <string name="help">Help</string>
+    <!--UHO 5/25/2020 NEW  1l: edit text -->
+    <string name="zero">0.0</string>
+    <!--UHO 5/25/2020 NEW  14l: help text view content -->
+    <string name="help_content">
+        Wall area : Combined all walls\'length x height of the wall\n\n
+        Unpapered area (Area that wallpaper would not cover): \n
+        [Window Height] x [Window Width] x [Number of Windows] = Window Area\n
+        [Door Height] x [Door Width] x [Number of Doors] = Door Area\n\n
+        Wallpaper area : wall area - unpapered area\n\n
+        Wallpaper to Order: Wallpapering Area ÷ Usable Yield = Number of Single Rolls Needed\n\n
+        Pattern repeat is the distance between the pattern\n
+        Usuable Yield:\n
+        Patter Repeat  -> Usuable Yield\n
+        0 to 6in -> 32 sq. ft.\n
+        7 to 12 in -> 30 sq. ft.\n
+        13 to 18 in -> 27 sq. ft.\n
+        19 to 23 in -> 25 sq. ft.\n
+    </string>
+    <!--UHO 5/25/2020 NEW  1l: input room dimension label button  -->
+    <string name="return_btn">Input Room Dimension</string>
+    <!--UHO 5/25/2020 NEW  3l: labels for menu items  -->
+    <string name="white">White</string>
+    <string name="dark">Dark</string>
+    <string name="sepia">Sepia</string>
+    <string name="Zero">0</string>
+</resources>

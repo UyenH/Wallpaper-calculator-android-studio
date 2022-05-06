@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="dark">#000000</color><!--UHo 5/25/2020 NEW 1l : black color  -->
+    <color name="white">#FFFFFF</color><!--UHo 5/25/2020 NEW 1l : white color -->
+    <color name="yellow">#FFFF88</color><!--UHo 5/25/2020 NEW 1l :yellow color -->
+    <color name="text_black">#000000</color><!--UHo 5/25/2020 NEW 1l : black text color -->
+    <color name="text_white">#FFFFFF</color><!--UHo 5/25/2020 NEW 1l : white text color -->
+    <color name="light_blue">#b7e9f7</color><!--UHo 5/25/2020 NEW 1l : radio group background color light blue -->
+</resources>
